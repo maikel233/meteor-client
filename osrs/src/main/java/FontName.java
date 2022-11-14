@@ -91,7 +91,7 @@ public class FontName {
 		int var34;
 		int var35;
 		if (Login.worldSelectOpen) {
-			class199 var32 = Client.keyHandlerInstance;
+			class199 var32 = Client.field733;
 			class199 var3 = var32;
 
 			while (true) {
